@@ -10,7 +10,24 @@ namespace jercicio2
     {
         static void Main(string[] args)
         {
+            int n;
+            Console.WriteLine("ingrese valor de n: ");
+            n = int.Parse(Console.ReadLine());
+            for (int i = 10; i>n;i++)
+            {
+                Console.WriteLine(n);
+                Console.ReadKey();
 
+            }
         }
     }
 }
+
+
+
+
+
+
+        
+    
+

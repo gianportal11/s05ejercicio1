@@ -20,6 +20,7 @@ namespace s05ejercicio1
                 Console.WriteLine("en esta interaccion la suma es " + suma);
                 Console.ReadKey(); }
 
+
         }
     }
 }
